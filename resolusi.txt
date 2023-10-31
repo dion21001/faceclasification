@@ -2,3 +2,5 @@ resolusi
 - mempelajari git dan github
 - mempelajari django
 - mempelajari aws dan database lainnya
+- mempelajari API
+- belajar machine learning 
